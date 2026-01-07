@@ -1,0 +1,27 @@
+{
+  "name": "cfc_sales_form",
+  "version": "1.0.0",
+  "description": "cfc sales form form employees to create saes ticket digitally",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asol-raj/cfc_sales_form.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/asol-raj/cfc_sales_form/issues"
+  },
+  "homepage": "https://github.com/asol-raj/cfc_sales_form#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "ejs": "^3.1.10",
+    "express": "^5.2.1"
+  }
+}
